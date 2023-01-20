@@ -12,7 +12,8 @@ Senior Android developer Communicating with client, understanding requirements a
 
 ### Technologies ###
 * Kotlin
-* Dagger Hilt
+* Android clean architechture
+* Koin
 * Junit
 * Kotlin coroutines
 * MVVM
@@ -21,12 +22,20 @@ Senior Android developer Communicating with client, understanding requirements a
 * Firebase
 * TDD
 * SSl Pinning
-* GoogleMaps
 * Modular Approaach
 * Payment gateways
 * Lottie-Animations
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg" width="150" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg" width="150" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/8.jpg" width="150" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/9.jpg" width="150" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/10.jpg" title="Banner">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg"  width="160"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png"  width="160" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/8.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/9.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/10.jpg" width="160" title="Banner">
 </p>
 
 # [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
