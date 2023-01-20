@@ -26,12 +26,12 @@ Senior Android developer Communicating with client, understanding requirements a
 * Payment gateways
 * Lottie-Animations
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg"  width="160"  title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg"  width="160"  title="Feeds Screen">&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png"  width="160" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg"  width="160" title="iPad version">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" title="Banner">&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/8.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/9.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
