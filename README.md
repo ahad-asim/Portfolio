@@ -5,7 +5,7 @@ Experienced and dedicated Android app developer offering more than 7 years of ex
 
 Jingle Pay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Jingle Pay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). VowPay is built with Android Studio and written entirely in purely Kotlin. VowPay is my ongoing project.
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). Jingle Pay is built with Android Studio and written entirely in purely Kotlin. VowPay is my ongoing project.
 
 ### My Role ###
 * Working as Android Lead closely with internal teams such as developers, product, UX, and QA. 
