@@ -76,6 +76,9 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 
 <p align="center">
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/1.webp"  width="160"  title="Feeds Screen">&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/2.webp"  width="160"  title="Feeds Screen">&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/3.webp"  width="160"  title="Feeds Screen">&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/4.webp"  width="160"  title="Feeds Screen">&nbsp;
 </p>
 
 
