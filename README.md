@@ -84,6 +84,37 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 
 # [Wateen Hub Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.wateenhub&hl=en&gl=US) 
 
+HUB aims at seamlessly integrated, mobile communication application that identifies the contacts on a user’s mobile device and enables free text messaging/audio and video calling services. For better interaction and user experience, HUB intends to provide support for different media types such as audio and video.
+
+
+### My Role ###
+* Understand the System and analyze complete requirements and estimate the finalized functional and non-functional requirements and the making of WBS.
+* Design and architect modules by implementing different design patterns.
+* Successfully deliver different modules and follow agile completely.
+
+
+### Technologies ###
+* Kotlin
+* Dagger2
+* Google Maps
+* Glide
+* Junit
+* Push Notifications 
+* Leanplum 
+* Firebase
+* promon sheild 
+* payment gateways
+* TDD
+* KYC authentication
+* Modular approach
+* Face id and thumb Sign in enabled
+
+<p align="center">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/2.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/3.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/4.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+</p>
 
 # [Wateen Self-Care Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.selfcare) 
 
@@ -116,6 +147,15 @@ Here are some of the top features which make load management easier than ever be
 * Face id and thumb Sign in enabled
 
 
+<p align="center">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/2.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/3.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/4.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/5.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+</p>
+
+
 # [Wateen TMS Client Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.tms)
 
 ### My Role ###
@@ -135,5 +175,12 @@ Here are some of the top features which make load management easier than ever be
 * KYC authentication
 * Modular approach
 * Face id and thumb Sign in enabled
+
+
+<p align="center">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+</p>
 
 
