@@ -75,10 +75,10 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 * Face id and thumb Sign in enabled
 
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/2.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/3.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/4.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/1.webp"  width="200"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/2.webp"  width="200" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/3.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/4.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
 </p>
 
 
@@ -110,10 +110,10 @@ HUB aims at seamlessly integrated, mobile communication application that identif
 * Face id and thumb Sign in enabled
 
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/2.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/3.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/4.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/1.webp"  width="200"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/2.webp"  width="200" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/3.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/hub/4.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
 </p>
 
 # [Wateen Self-Care Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.selfcare) 
@@ -148,11 +148,11 @@ Here are some of the top features which make load management easier than ever be
 
 
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/2.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/3.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/4.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
-  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/5.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/1.webp"  width="200"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/2.webp"  width="200" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/3.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/4.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
+  <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/selfcare/5.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
 </p>
 
 
