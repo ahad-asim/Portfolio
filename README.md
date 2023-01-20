@@ -35,7 +35,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="180" height="360" title="">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg"  width="180" height="360" title="">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" height="360" title="">&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" height="360" title="">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" height="360" title="">&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/8.jpg"  width="180" height="360" title="">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/9.jpg"  width="180" height="360" title="">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/10.jpg" width="180" height="360" title="">
