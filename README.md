@@ -79,6 +79,12 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 </p>
 
 
+# [Wateen Hub Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.wateenhub&hl=en&gl=US) 
+
+
+
+
+
 # [Wateen Self-Care Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.selfcare) 
 
 SEU Mobile is a friendly and a convenient application that allows load management anytime and anywhere across the USA.
