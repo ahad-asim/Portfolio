@@ -28,16 +28,16 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 * Payment gateways
 * Lottie-Animations
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg"  width="160"  title="Feeds Screen">&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png"  width="160" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="160" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg"  width="160" title="iPad version">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" title="Banner">&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/8.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/9.jpg"  width="160" title="Banner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/10.jpg" width="160" title="Banner">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg"  width="160"  title="">&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg"  width="160" title="">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" title="">&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/8.jpg"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/9.jpg"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/10.jpg" width="160" title="">
 </p>
 
 ### Southeast Unloading ###
@@ -75,7 +75,7 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 * Face id and thumb Sign in enabled
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/seu/1.webp"  width="160"  title="Feeds Screen">&nbsp;
 </p>
 
 
