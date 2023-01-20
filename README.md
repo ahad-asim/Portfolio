@@ -178,9 +178,9 @@ Here are some of the top features which make load management easier than ever be
 
 
 <p align="center">
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="170"   height="360" title="Feeds Screen">&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="170" height="360"  title="Feeds Screen">&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="170" height="360" title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="200"   height="360" title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="200" height="360"  title="Feeds Screen">&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/tms/1.webp"  width="200" height="360" title="Feeds Screen">&nbsp;&nbsp;
 </p>
 
 
