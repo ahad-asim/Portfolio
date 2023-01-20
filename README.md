@@ -82,9 +82,6 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 # [Wateen Hub Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.wateenhub&hl=en&gl=US) 
 
 
-
-
-
 # [Wateen Self-Care Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.selfcare) 
 
 SEU Mobile is a friendly and a convenient application that allows load management anytime and anywhere across the USA.
@@ -98,8 +95,6 @@ Here are some of the top features which make load management easier than ever be
 
 
 ### My Role ###
-Senior Mobile developer. Communicating with client, understanding requirements and sprint planning. Understand the System and analyze complete requirements. Conduct Walk-through, requirements gathering meetings, and propose the right solution.
-
 
 ### Technologies ###
 * Kotlin
@@ -117,25 +112,10 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 * Modular approach
 * Face id and thumb Sign in enabled
 
-<p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
-</p>
 
 # [Wateen TMS Client Ap‪p](https://play.google.com/store/apps/details?id=com.wateen.tms)
 
-SEU Mobile is a friendly and a convenient application that allows load management anytime and anywhere across the USA.
-SEU Mobile was designed keeping the day-to-day logistics needs in mind. It combines an intuitive interface with powerful features, which means you get a simple way to control your logistics.
-Here are some of the top features which make load management easier than ever before!
-
-* Integrated login with Southeast Unloading web portal
-* Real-time interfaces to track your load progress
-* Track your business, time-punches, etc along the pay-period
-* Real time notifications about new changes in the data to take action on the go
-
-
 ### My Role ###
-Senior Mobile developer. Communicating with client, understanding requirements and sprint planning. Understand the System and analyze complete requirements. Conduct Walk-through, requirements gathering meetings, and propose the right solution.
-
 
 ### Technologies ###
 * Kotlin
@@ -152,9 +132,5 @@ Senior Mobile developer. Communicating with client, understanding requirements a
 * KYC authentication
 * Modular approach
 * Face id and thumb Sign in enabled
-
-<p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
-</p>
 
 
