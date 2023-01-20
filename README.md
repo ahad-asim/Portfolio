@@ -8,7 +8,9 @@ Jingle Pay is an international money transfer app for sending remittances digita
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). VowPay is built with Android Studio and written entirely in purely Kotlin. VowPay is my ongoing project.
 
 ### My Role ###
-Senior Android developer Communicating with client, understanding requirements and sprint planning.
+* Working as Android Lead closely with internal teams such as developers, product, UX, and QA. 
+* Developing App from scratch, applying MVVM architecture with the repository pattern. 
+* Main tech responsibilities include: finding software solutions to requirements, developing new features, reviewing code, monitoring, CI/CD, and  releasing versions in the Google play store. 
 
 ### Technologies ###
 * Kotlin
@@ -38,11 +40,23 @@ Senior Android developer Communicating with client, understanding requirements a
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/10.jpg" width="160" title="Banner">
 </p>
 
-# [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
-YAP is Fintech application (MVVM-Kotlin): Being built using Kotlin and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
+### Southeast Unloading ###
+# [SEU – Android Ap‪p](https://play.google.com/store/apps/details?id=com.southeastunloading.divlog) 
+# [SEU – IOS Ap‪p](https://apps.apple.com/us/app/seu-southeast-unloading/id1630062597)
+
+SEU Mobile is a friendly and a convenient application that allows load management anytime and anywhere across the USA.
+SEU Mobile was designed keeping the day-to-day logistics needs in mind. It combines an intuitive interface with powerful features, which means you get a simple way to control your logistics.
+Here are some of the top features which make load management easier than ever before!
+
+* Integrated login with Southeast Unloading web portal
+* Real-time interfaces to track your load progress
+* Track your business, time-punches, etc along the pay-period
+* Real time notifications about new changes in the data to take action on the go
+
 
 ### My Role ###
-Senior Android developer. Communicating with client, understanding requirements and sprint planning.
+Senior Mobile developer. Communicating with client, understanding requirements and sprint planning. Understand the System and analyze complete requirements. Conduct Walk-through, requirements gathering meetings, and propose the right solution.
+
 
 ### Technologies ###
 * Kotlin
@@ -55,12 +69,10 @@ Senior Android developer. Communicating with client, understanding requirements 
 * Firebase
 * promon sheild 
 * payment gateways
-* ML kit 
 * TDD
 * KYC authentication
 * Modular approach
 * Face id and thumb Sign in enabled
-
 
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
