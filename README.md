@@ -29,9 +29,9 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 * Lottie-Animations
 <p align="center">
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/1.jpg"  width="160" height="360" title="">&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png"  width="160" height="360" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png"  width="200" height="360" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="200" height="360" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/2.png"  width="160" height="360" title="">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/3.png"  width="200" height="360" title="">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/4.png"  width="200" height="360" title="">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/5.jpg"  width="200" height="360" title="">
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/6.jpg"  width="160" title="">&nbsp;
 <img src="https://github.com/ahad-asim/Portfolio/blob/main/images/jinglepay/7.jpg"  width="160" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
